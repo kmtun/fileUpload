@@ -1,0 +1,8 @@
+.file-drop {
+  height: 100%;
+  width: 100%;
+}
+.file-drop > .file-drop-target {
+  height: 100%;
+  width: 100%;
+}
