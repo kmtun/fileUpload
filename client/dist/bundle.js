@@ -616,7 +616,7 @@ var Upload = function (_Component) {
               { style: { border: '2px dashed black', width: 600, height: 100, color: 'black', textAlign: 'center', padding: 20 } },
               _react2.default.createElement(
                 _reactFileDrop2.default,
-                { onDrop: this.handleDrop, style: { height: 100 } },
+                { onDrop: this.handleDrop },
                 _react2.default.createElement(
                   'strong',
                   null,

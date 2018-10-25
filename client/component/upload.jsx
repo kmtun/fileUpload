@@ -70,7 +70,7 @@ class Upload extends Component {
         <form onSubmit={this.handleUpload}>
           <div id="uploadContainer">
              <div style={{ border: '2px dashed black', width: 600, height: 100, color: 'black', textAlign: 'center', padding: 20 }}>
-                <FileDrop onDrop={this.handleDrop} style={{height: 100}}>
+                <FileDrop onDrop={this.handleDrop}>
                   <strong> Drop some files here! </strong>
                 </FileDrop>
             </div>
