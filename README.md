@@ -1,5 +1,5 @@
-# fileUpload
-Install dependencies by running npm install
+# Install dependencies 
+npm install
 
 # To start server
 npm start
